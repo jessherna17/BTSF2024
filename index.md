@@ -1,7 +1,7 @@
 ---
 title: "BTSF-2024"
 author: "Jessika Ruby Hernandez"
-github-repo:  8th-grade-math/BTSF2024
+github-repo:  jessherna17/BTSF2024
 description: "Web page for more information regarding BTSF 2024."
 ---
 
