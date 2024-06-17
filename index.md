@@ -12,7 +12,7 @@ I am always right(not true).
 
 <img src="images/pokemon-flyer.jpeg" alt="Program Theme" width="400" />
 
-# Week 1: June 17-21, 2024
+# <span style="color: #6495ED;"> Week 1: June 17-21, 2024</span>
 ## Day 1-2 (June 17-18)
 **Day 1-2 Objective:** Students will build their classroom culture and reflect on their identities as mathematicians.
 * **No Guided Notes**
