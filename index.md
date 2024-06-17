@@ -10,7 +10,7 @@ description: "Web page for more information regarding BTSF 2024."
 My name is Ms. Hernandez and I am your teacher. 
 I am always right(not true). 
 
-![Event](./images/pokemon-flyer.jpeg)
+![Program Theme](./images/pokemon-flyer.jpeg)
 
 # Week 1: June 17-21, 2024
 ## Day 1-2 (June 17-18)
