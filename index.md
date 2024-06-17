@@ -17,7 +17,7 @@ I am always right(not true).
 * **No Homework Solutions**
 
 ## Day 3-4 (June 17-18)
-**Day 3-4 Objective:** Students 
+**Day 3-4 Objective:** Students will be able to calculate a missing value for a number puzzle that can be represented by a linear equation in one variable and explain a solution method. 
 * **Guided Notes**
 * **Homework Solutions**
 
