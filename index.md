@@ -17,7 +17,7 @@ I am always right(not true).
 **Day 1-2 Objective:** Students will build their classroom culture and reflect on their identities as mathematicians.
 * **<span style="color: #4c00b0;"> B Block </span>**
   1. No materials
-* **D Block**
+* **<span style="color: #D21404;"> D Block </span>**
   1. No materials
 * **No Homework**
 
@@ -25,7 +25,7 @@ I am always right(not true).
 **Day 3-4 Objective:** Students will be able to calculate a missing value for a number puzzle that can be represented by a linear equation in one variable and explain a solution method. 
 * **<span style="color: #4c00b0;"> B Block </span>**
   1. Block B Guided Notes
-* **D Block**
+* **<span style="color: #D21404;"> D Block </span>**
   1. Block D Guided Notes
 * **NoHomework Solutions**
 * **Homework 3 PDF**
@@ -35,7 +35,7 @@ I am always right(not true).
 **Day 5-6 Objective:** 
 * **<span style="color: #4c00b0;"> B Block </span>**
   1. Block B Guided Notes
-* **D Block**
+* **<span style="color: #D21404;"> D Block </span>**
   1. Block D Guided Notes
 * **Homework Solutions**
 
@@ -43,7 +43,7 @@ I am always right(not true).
 **Day 7-8 Objective:** 
 * **<span style="color: #4c00b0;"> B Block </span>**
   1. Block B Guided Notes
-* **D Block**
+* **<span style="color: #D21404;"> D Block </span>**
   1. Block D Guided Notes
 * **Homework Solutions**
 
@@ -51,6 +51,6 @@ I am always right(not true).
 **Day 9 Objective:** 
 * **<span style="color: #4c00b0;"> B Block </span>**
   1. Block B Guided Notes
-* **D Block**
+* **<span style="color: #D21404;"> D Block </span>**
   1. Block D Guided Notes
 * **No Homework**
