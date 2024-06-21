@@ -15,7 +15,7 @@ I am always right(not true).
 # <span style="color: #6495ED;"> Week 1: June 17-21, 2024</span>
 ## Day 1-2 (June 17-18)
 **Day 1-2 Objective:** Students will build their classroom culture and reflect on their identities as mathematicians.
-* **B Block**
+* **<span style="color: #4c00b0;"> B Block, 2024</span>**
   1. No materials
 * **D Block**
   1. No materials
