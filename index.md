@@ -21,8 +21,8 @@ I am always right(not true).
 
 ## Day 3-4 (June 20-21)
 **Day 3-4 Objective:** Students will be able to calculate a missing value for a number puzzle that can be represented by a linear equation in one variable and explain a solution method. 
-- [Guided Notes](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf)
-- [Number Puzzle Guide](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf) 
+- [**Guided Notes**](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf)
+- [**Number Puzzle Guide**](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf) 
 - [**Homework 3 PDF**](./Forms/Day 3_JHMO_M8_HW_Draft.pdf)
 - **Homework Solutions**
 
