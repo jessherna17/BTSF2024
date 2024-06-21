@@ -23,8 +23,8 @@ I am always right(not true).
 **Day 3-4 Objective:** Students will be able to calculate a missing value for a number puzzle that can be represented by a linear equation in one variable and explain a solution method. 
 - [**Guided Notes**](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf)
 - [**Number Puzzle Guide**](./Forms/Number Puzzle Guide (B).pdf) 
-- [**Homework 3 PDF**](./Forms/Day 3_JHMO_M8_HW_Draft.pdf)
-- [**Homework Solutions**](./Forms/Day 3_HW_Solutions.pdf)
+- [**Homework Day 3 PDF**](./Forms/Day 3_JHMO_M8_HW_Draft.pdf)
+- [**Homework Day 3 Solutions**](./Forms/Day 3_HW_Solutions.pdf)
 
 # <span style="color: #6495ED;"> Week 2: June 24-28, 2024, 2024</span>
 ## Day 5-6 (June 24-25)
