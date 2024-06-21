@@ -24,8 +24,8 @@ I am always right(not true).
 
 <details> 
 <summary> <span style="color: #4c00b0;"> B Block </span> </summary>
-- [Block B Guided Notes](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf)
-- [B Block Number Puzzle Guide](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf)
+- <summary>[Block B Guided Notes](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf)</summary>
+- <summary> [B Block Number Puzzle Guide](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf) </summary>
 </details>
 
 <details> 
