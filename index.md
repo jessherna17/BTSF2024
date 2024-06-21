@@ -27,7 +27,8 @@ I am always right(not true).
 - [**Homework Day 3 PDF**](./Forms/Day 3_JHMO_M8_HW_Draft.pdf)
 - [**Homework Day 3 Solutions**](./Forms/Day 3_HW_Solutions.pd)
 ## **Day 4**
-  - [Day 4 Homework](./Forms/Day4HW.pdf)
+- [Day 4 Homework](./Forms/Day4HW.pdf)
+- [Day 4 Homework Solutions](./Forms/Day4HWSolutions.pdf)
 
 # <span style="color: #6495ED;"> Week 2: June 24-28, 2024, 2024</span>
 ## Day 5-6 (June 24-25)
