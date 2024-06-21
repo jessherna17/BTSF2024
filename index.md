@@ -21,20 +21,10 @@ I am always right(not true).
 
 ## Day 3-4 (June 20-21)
 **Day 3-4 Objective:** Students will be able to calculate a missing value for a number puzzle that can be represented by a linear equation in one variable and explain a solution method. 
-
-<details> 
-<summary> <span style="color: #4c00b0;"> B Block </span> </summary>
-- <summary>[Block B Guided Notes](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf)</summary>
-- <summary> [B Block Number Puzzle Guide](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf) </summary>
-</details>
-
-<details> 
-<summary> <span style="color: #D21404;"> D Block </span> </summary>
-  1. Block D Guided Notes
-</details>
-
--  **NoHomework Solutions**
+- [Guided Notes](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf)
+- [Number Puzzle Guide](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf) 
 - [**Homework 3 PDF**](./Forms/Day 3_JHMO_M8_HW_Draft.pdf)
+- **Homework Solutions**
 
 # <span style="color: #6495ED;"> Week 2: June 24-28, 2024, 2024</span>
 ## Day 5-6 (June 24-25)
