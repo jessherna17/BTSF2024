@@ -24,7 +24,7 @@ I am always right(not true).
 - [**Guided Notes**](./Forms/Day 3_4_JHMO_M8_GN_Draft-B.pdf)
 - [**Number Puzzle Guide**](./Forms/Number Puzzle Guide (B).pdf) 
 - [**Homework 3 PDF**](./Forms/Day 3_JHMO_M8_HW_Draft.pdf)
-- **Homework Solutions**
+- [**Homework Solutions**](./Forms/Day 3_HW_Solutions.pdf)
 
 # <span style="color: #6495ED;"> Week 2: June 24-28, 2024, 2024</span>
 ## Day 5-6 (June 24-25)
