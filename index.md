@@ -15,22 +15,20 @@ I am always right(not true).
 # <span style="color: #6495ED;"> Week 1: June 17-21, 2024</span>
 ## Day 1-2 (June 17-18)
 **Day 1-2 Objective:** Students will build their classroom culture and reflect on their identities as mathematicians.
-* **<span style="color: #4c00b0;"> B Block </span>**
-  1. No materials
-* **<span style="color: #D21404;"> D Block </span>**
-  1. No materials
+* **No materials**
 * **No Homework**
 
 
 ## Day 3-4 (June 20-21)
 **Day 3-4 Objective:** Students will be able to calculate a missing value for a number puzzle that can be represented by a linear equation in one variable and explain a solution method. 
+
 <details> 
-* <summary> <span style="color: #4c00b0;"> **B Block** </span> </summary>
+* <summary> <span style="color: #4c00b0;"> B Block </span> </summary>
   1. Block B Guided Notes
 </details>
 
 <details> 
-* <summary> <span style="color: #D21404;"> **D Block** </span> </summary>
+* <summary> <span style="color: #D21404;"> D Block </span> </summary>
   1. Block D Guided Notes
 </details>
 
