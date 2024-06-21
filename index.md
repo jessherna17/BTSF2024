@@ -38,24 +38,3 @@ I am always right(not true).
 # <span style="color: #6495ED;"> Week 2: June 24-28, 2024, 2024</span>
 ## Day 5-6 (June 24-25)
 **Day 5-6 Objective:** 
-* **<span style="color: #4c00b0;"> B Block </span>**
-  1. Block B Guided Notes
-* **<span style="color: #D21404;"> D Block </span>**
-  1. Block D Guided Notes
-* **Homework Solutions**
-
-## Day 7-8 (June 26-27)
-**Day 7-8 Objective:** 
-* **<span style="color: #4c00b0;"> B Block </span>**
-  1. Block B Guided Notes
-* **<span style="color: #D21404;"> D Block </span>**
-  1. Block D Guided Notes
-* **Homework Solutions**
-
-## Day 9 (June 28)
-**Day 9 Objective:** 
-* **<span style="color: #4c00b0;"> B Block </span>**
-  1. Block B Guided Notes
-* **<span style="color: #D21404;"> D Block </span>**
-  1. Block D Guided Notes
-* **No Homework**
