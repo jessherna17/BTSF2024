@@ -32,8 +32,8 @@ I am always right(not true).
   1. Block D Guided Notes
 </details>
 
-* **NoHomework Solutions**
-* **[Homework 3 PDF] (./Forms/Day 3_JHMO_M8_HW_Draft.pdf)**
+-  **NoHomework Solutions**
+- [**Homework 3 PDF**](./Forms/Day 3_JHMO_M8_HW_Draft.pdf)
 
 # <span style="color: #6495ED;"> Week 2: June 24-28, 2024, 2024</span>
 ## Day 5-6 (June 24-25)
