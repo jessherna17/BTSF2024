@@ -16,6 +16,7 @@ I am always right(not true).
 ## Day 1-2 (June 17-18)
 **Day 1-2 Objective:** Students will build their classroom culture and reflect on their identities as mathematicians.
 * **No Guided Notes**
+  1. B Block
 * **No Homework Solutions**
 
 ## Day 3-4 (June 20-21)
