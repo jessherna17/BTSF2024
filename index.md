@@ -8,7 +8,8 @@ description: "Web page for more information regarding BTSF 2024."
 # Welcome to BTSF 8th Grade Math! 
 
 My name is Jessika and I am your teacher. 
-I am always right(not true). 
+I am always right(not true).
+## If you have any questions or need an extension on any assignment, please do not hesitate to reach out via email: jrh8017@gmail.com
 
 <img src="images/pokemon-flyer.jpeg" alt="Program Theme" width="600" />
 
