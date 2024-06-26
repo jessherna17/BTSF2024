@@ -34,12 +34,12 @@ I am always right(not true).
 ## Day 5-6 (June 24-25)
 **Day 5-6 Objective:** We will be able to compare and contrast solution paths to solve an equation in one variable by performing the same operation on each side.
 
-###**Day 5**
+### **Day 5**
 - [**Guided Notes**]
 - [**Linear Equations Guide**] 
 - [**Homework Day 5 PDF**]
 - [**Homework Day 5 Solutions**]
 
-###**Day 6**
+### **Day 6**
 - [**Day 6 Homework PDF**]
 - [**Day 6 Homework Solutions**]
