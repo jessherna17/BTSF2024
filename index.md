@@ -78,7 +78,7 @@ I am always right(not true).
 ## Day 13 (July 8) 
 - **Parent Conferences**
 
-## Day 14-16 (June 9-10) 
+## Day 14-16 (June 9-11) 
 **Day 14-16 Objective:** We will be able to: 
 - determine whether a point satisfies two relationships simultaneously, using tables or graphs 
 - create a graph that represents two linear relationships in context
