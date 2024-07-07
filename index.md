@@ -60,4 +60,14 @@ I am always right(not true).
 ### **Day 9**
 - [**Hopscotch Math Game Outside - NO HOMEWORK**]
 
-# <span style="color: #6495ED;"> Week 3: July 1-3 (No BT July4/5), 2024, 2024</span>
+# <span style="color: #6495ED;"> Week 3: July 1-3, 2024 (No BT July4/5)</span>
+## Day 10-11 (July 1-3)
+**Day 10-11 Objective:** We will be able to compare and contrast equations that have no solutions or infinitely many solutions.
+### **Day 10-11**
+- [**Day 10/11 Guided Notes**](./Forms/Day1011GNKEY.pdf)
+- [**Homework Day 10/11 PDF**](./Forms/Day 7_JHMO_HW_Draft.pdf)
+- [**Homework Day 10/11 Solutions**](./Forms/Day 1011KEY.pdf)
+
+### **Day 12**
+- **Class Jeopardy & Goodbye to Xiao ): - NO HOMEWORK**
+- **Enjoy your 4 Day Weekend & Be ready for Conferences on Monday!**
