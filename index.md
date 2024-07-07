@@ -49,13 +49,15 @@ I am always right(not true).
 **Day 7-9 Objective:** We will be able to add, subtract, multiply, and divide negative numbers and fractions in linear equations.
 
 ### **Day 7**
-- [**Guided Notes**](./Forms/Day 78guidednoteskey.pdf)
-- [**Homework Day 7 PDF**](./Forms/Day 5HW.pdf)
-- [**Homework Day 5 Solutions**](./Forms/)
+- [**Day 7/8 Guided Notes**](./Forms/Day 78guidednoteskey.pdf)
+- [**Homework Day 7 PDF**](./Forms/Day 7_JHMO_HW_Draft.pdf)
+- [**Homework Day 7 Solutions**](./Forms/Day 7HWKey.pdf)
 
 ### **Day 8**
-- [**Day 8 Homework PDF**](./Forms/Day 6_JHMO_M8_HW_Draft.pdf)
-- [**Day 8 Homework Solutions**](./Forms/)
+- [**Day 8 Homework PDF**](./Forms/Day 8 Hw.pdf)
+- [**Day 8 Homework Solutions**](./Forms/Day8HWKey.pdf)
 
 ### **Day 9**
 - [**Hopscotch Math Game Outside - NO HOMEWORK**]
+
+# <span style="color: #6495ED;"> Week 3: July 1-3 (No BT July4/5), 2024, 2024</span>
