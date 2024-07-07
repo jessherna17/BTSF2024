@@ -36,9 +36,9 @@ I am always right(not true).
 **Day 5-6 Objective:** We will be able to compare and contrast solution paths to solve an equation in one variable by performing the same operation on each side.
 
 ### **Day 5**
-- [**Guided Notes**](./Forms/Day 5_6_JHMO_Guided Notes_Draft.pdf)
+- [**Guided Notes**](./Forms/Day 56guidednotes.pdf)
 - [**Homework Day 5 PDF**](./Forms/Day 5HW.pdf)
-- [**Homework Day 5 Solutions**]
+- [**Homework Day 5 Solutions**](./Forms/Day5HWkey.pdf)
 
 ### **Day 6**
 - [**Linear Equations Guide**]
