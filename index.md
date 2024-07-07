@@ -65,9 +65,30 @@ I am always right(not true).
 **Day 10-11 Objective:** We will be able to compare and contrast equations that have no solutions or infinitely many solutions.
 ### **Day 10-11**
 - [**Day 10/11 Guided Notes**](./Forms/Day1011GNKEY.pdf)
-- [**Homework Day 10/11 PDF**](./Forms/Day 7_JHMO_HW_Draft.pdf)
+- [**Homework Day 10/11 PDF**](./Forms/Day 10+11 Homework.pdf)
 - [**Homework Day 10/11 Solutions**](./Forms/Day 1011KEY.pdf)
 
 ### **Day 12**
+**Day 12 Objective:** We will be able to determine the number of solutions in a linear equation and solve linear equations that include negative numbers and fractions.
+
 - **Class Jeopardy & Goodbye to Xiao ): - NO HOMEWORK**
 - **Enjoy your 4 Day Weekend & Be ready for Conferences on Monday!**
+
+# <span style="color: #6495ED;"> Week 4: July 8-12, 2024</span>
+## Day 13 (June 17-18) 
+- **Parent Conferences**
+
+## Day 14-16 (June 17-18) 
+**Day 14-16 Objective:** We will be able to: 
+- determine whether a point satisfies two relationships simultaneously, using tables or graphs 
+- create a graph that represents two linear relationships in context
+- interpret orally and in writing the point of intersection
+
+### **Day 14-15**
+- - [**Day 14/15 Guided Notes**](./Forms/ )
+- [**Homework Day 14/15 PDF**](./Forms/ )
+- [**Homework Day 14/15 Solutions**](./Forms/ )
+
+### **Day 16**
+- Class Presentations
+- **No Homework & Be ready for Career Day TOMORROW!!**
