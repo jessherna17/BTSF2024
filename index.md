@@ -41,6 +41,6 @@ I am always right(not true).
 - [**Homework Day 5 Solutions**](./Forms/Day5HWkey.pdf)
 
 ### **Day 6**
-- [**Linear Equations Guide**]
+- [**Linear Equations Guide**](./Forms/Day6-Guide.pdf)
 - [**Day 6 Homework PDF**](./Forms/Day 6_JHMO_M8_HW_Draft.pdf)
-- [**Day 6 Homework Solutions**]
+- [**Day 6 Homework Solutions**](./Forms/Day6HWkey.pdf)
