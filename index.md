@@ -44,3 +44,18 @@ I am always right(not true).
 - [**Linear Equations Guide**](./Forms/Day6-Guide.pdf)
 - [**Day 6 Homework PDF**](./Forms/Day 6_JHMO_M8_HW_Draft.pdf)
 - [**Day 6 Homework Solutions**](./Forms/Day6HWkey.pdf)
+
+## Day 7-9 (June 26-28)
+**Day 7-9 Objective:** We will be able to add, subtract, multiply, and divide negative numbers and fractions in linear equations.
+
+### **Day 7**
+- [**Guided Notes**](./Forms/Day 78guidednoteskey.pdf)
+- [**Homework Day 7 PDF**](./Forms/Day 5HW.pdf)
+- [**Homework Day 5 Solutions**](./Forms/)
+
+### **Day 8**
+- [**Day 8 Homework PDF**](./Forms/Day 6_JHMO_M8_HW_Draft.pdf)
+- [**Day 8 Homework Solutions**](./Forms/)
+
+### **Day 9**
+- [**Hopscotch Math Game Outside - NO HOMEWORK**]
