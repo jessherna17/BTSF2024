@@ -86,7 +86,7 @@ I am always right(not true).
 
 ### **Day 14-15**
 - [**Day 14/15 Guided Notes**](./Forms/ )
-- [**Homework Day 14/15 PDF**](./Forms/ )
+- [**Homework Day 14/15 PDF**](./Forms/Day 14_15_JH_M8_HW.pdf)
 - [**Homework Day 14/15 Solutions**](./Forms/ )
 
 ### **Day 16**
