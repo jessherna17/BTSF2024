@@ -5,10 +5,10 @@ github-repo:  jessherna17/BTSF2024
 description: "Web page for more information regarding BTSF 2024."
 ---
 
-# Welcome to BTSF 8th Grade Math! 
+# Welcome to Breakthrough San Francisco 8th Grade Math! 
 
-My name is Jessika and I am your teacher. 
-I am always right(not true).
+My name is Jessika and I am your mathematics teacher this summer. 
+I am always right, just kidding!
 ### <span style="color: #8F00FF;"> Please note that the days are listed by days of instruction/lecture. If you have any questions or need an extension on any assignment, please do not hesitate to reach out via email: <jrh8017@gmail.com>  </span>I
 
 <img src="images/pokemon-flyer.jpeg" alt="Program Theme" width="800" />
