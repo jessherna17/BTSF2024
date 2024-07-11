@@ -85,7 +85,7 @@ I am always right(not true).
 - interpret orally and in writing the point of intersection
 
 ### **Day 14-15**
-- [**Day 14/15 Guided Notes**](./Forms/ )
+- [**Day 14/15 Guided Notes**](./Forms/Wk4GN.pdf)
 - [**Homework Day 14/15 PDF**](./Forms/Day 14_15_JH_M8_HW.pdf)
 - [**Homework Day 14/15 Solutions**](./Forms/ )
 
