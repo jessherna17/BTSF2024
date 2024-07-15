@@ -27,7 +27,7 @@ I am always right, just kidding!
 ### **Day 14-15**
 - [**Completed Day 14/15 Guided Notes**](./Forms/Wk4GN.pdf)
 - [**Homework Day 14/15 PDF**](./Forms/Day 14_15_JH_M8_HW.pdf)
-- [**Homework Day 14/15 Solutions**](./Forms/Wk4HWKEY)
+- [**Homework Day 14/15 Solutions**](./Forms/Wk4HWKEY.pdf)
 
 ### **Day 16**
 - Class Presentations
