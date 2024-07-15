@@ -22,7 +22,7 @@ I am always right, just kidding!
 
 ### **Day 17-19**
 - [**Completed Week 5 Guided Notes**](./Forms/)
-- [**Week 5 Homework PDF**](./Forms/Day 17_18_19_JHMO_M8_HW.pdf)
+- [**Week 5 Homework PDF**](./Forms/Week5HW.pdf)
 - [**Week 5 Homework Solutions**](./Forms/)
 
 ### **Day 20**
