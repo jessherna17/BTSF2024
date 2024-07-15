@@ -13,6 +13,21 @@ I am always right, just kidding!
 
 <img src="images/pokemon-flyer.jpeg" alt="Program Theme" width="800" />
 
+# <span style="color: #6495ED;"> Week 5: July 15-19, 2024</span>
+## Day 17-19 (July 15-17) 
+**Day 17-19 Objective:** We will be able to: 
+- Comprehend that solving systems of equations involves finding values of the variables that satisfy both equations simultaneously
+- Coordinate this understanding by solving equations with variables on each side
+- Recognize these solutions as points of intersection in systems of two linear equations.
+
+### **Day 17-19**
+- [**Completed Week 5 Guided Notes**](./Forms/)
+- [**Week 5 Homework PDF**](./Forms/)
+- [**Week 5 Homework Solutions**](./Forms/)
+
+### **Day 20**
+- **EXACT Path Testing**
+- **No Homework & Be ready for Community Day TOMORROW!!**
 
 # <span style="color: #6495ED;"> Week 4: July 8-12, 2024</span>
 ## Day 13 (July 8) 
