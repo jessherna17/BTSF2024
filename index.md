@@ -25,9 +25,9 @@ I am always right, just kidding!
 - interpret orally and in writing the point of intersection
 
 ### **Day 14-15**
-- [**Day 14/15 Guided Notes**](./Forms/Wk4GN.pdf)
+- [**Completed Day 14/15 Guided Notes**](./Forms/Wk4GN.pdf)
 - [**Homework Day 14/15 PDF**](./Forms/Day 14_15_JH_M8_HW.pdf)
-- [**Homework Day 14/15 Solutions**](./Forms/ )
+- [**Homework Day 14/15 Solutions**](./Forms/Wk4HWKEY)
 
 ### **Day 16**
 - Class Presentations
