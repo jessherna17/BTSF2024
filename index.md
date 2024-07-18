@@ -21,7 +21,7 @@ I am always right, just kidding!
 - Recognize these solutions as points of intersection in systems of two linear equations.
 
 ### **Day 17-19**
-- [**Completed Week 5 Guided Notes**](./Forms/Week 5GN.pdf)
+- [**Completed Week 5 Guided Notes**](./Forms/completedWeek5GN.pdf
 - [**Week 5 Homework PDF**](./Forms/Week5HW.pdf)
 - [**Week 5 Homework Solutions**](./Forms/)
 
